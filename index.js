@@ -7,7 +7,7 @@ app.use(cors());
 
 main();
 
-app.use(express.static("Public"));
+app.use(express.static(__dirname + "/public"));
 
 app.listen(4001, () => {
   console.log("Servidor Montado");

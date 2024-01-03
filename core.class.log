@@ -2,10 +2,10 @@
   key: {
     remoteJid: '18493961317@s.whatsapp.net',
     fromMe: false,
-    id: '57BBF24E4819A90D18',
+    id: '09D24F091BC78AB728',
     participant: undefined
   },
-  messageTimestamp: 1704245828,
+  messageTimestamp: 1704246425,
   pushName: 'Ashley Zahivis',
   broadcast: false,
   message: Message {
@@ -19,8 +19,8 @@
   from: '18493961317'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a923cb78-60b2-43a3-8a26-71c01f7d0426',
-  keyword: 'key_d438b88f-a8b3-4f65-a2d8-2d1cc9aeaa15',
+  ref: 'ans_89a3c3ee-b845-427a-9812-59d7bff566b9',
+  keyword: 'key_42dc750d-5a98-40a0-9fe0-df4b4051220b',
   answer: '🙌 Hola bienvenido a este *Chatbot*',
   options: {
     media: null,
@@ -34,11 +34,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'fee54287a7e6c5bb294bcc894856f09b'
+  refSerialize: '92dfd9bb81b34ad607bab141949eb131'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_c6f8b581-0499-4444-b1f2-64bb24213b20',
-  keyword: 'ans_a923cb78-60b2-43a3-8a26-71c01f7d0426',
+  ref: 'ans_6e2da29c-e2aa-4b28-a02b-b033b9e4ecc2',
+  keyword: 'ans_89a3c3ee-b845-427a-9812-59d7bff566b9',
   answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
     '👉 *doc* para ver la documentación\n' +
     '👉 *gracias*  para ver la lista de videos\n' +
@@ -60,5 +60,5 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '07b6ab3d3b887fbd425755dc6f2aee60'
+  refSerialize: 'f43b8b4e61671ea629ced31fafdda5d8'
 }
