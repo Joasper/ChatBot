@@ -1,0 +1,64 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18493961317@s.whatsapp.net',
+    fromMe: false,
+    id: '57BBF24E4819A90D18',
+    participant: undefined
+  },
+  messageTimestamp: 1704245828,
+  pushName: 'Ashley Zahivis',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '18493961317'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a923cb78-60b2-43a3-8a26-71c01f7d0426',
+  keyword: 'key_d438b88f-a8b3-4f65-a2d8-2d1cc9aeaa15',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fee54287a7e6c5bb294bcc894856f09b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c6f8b581-0499-4444-b1f2-64bb24213b20',
+  keyword: 'ans_a923cb78-60b2-43a3-8a26-71c01f7d0426',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '07b6ab3d3b887fbd425755dc6f2aee60'
+}
